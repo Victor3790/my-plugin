@@ -1,0 +1,18 @@
+.center-text {
+    text-align: center;
+}
+
+.left-text {
+    text-align: left;
+}
+
+.right-text {
+    text-align: right;
+}
+
+.container {
+    border-radius: 5px;
+    padding: 10px;
+    color: #FFF;
+    background-color: #1a1a1a;
+}
